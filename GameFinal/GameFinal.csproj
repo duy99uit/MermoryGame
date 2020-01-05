@@ -1,0 +1,405 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{BFF732F3-74D3-4D9F-84BE-EF2AE6535D66}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>GameFinal</RootNamespace>
+    <AssemblyName>GameFinal</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="About.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="About.Designer.cs">
+      <DependentUpon>About.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Exit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Exit.Designer.cs">
+      <DependentUpon>Exit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form4x5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form4x5.Designer.cs">
+      <DependentUpon>Form4x5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form4x4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form4x4.Designer.cs">
+      <DependentUpon>Form4x4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form3x4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form3x4.Designer.cs">
+      <DependentUpon>Form3x4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form5x5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form5x5.Designer.cs">
+      <DependentUpon>Form5x5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form5x6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form5x6.Designer.cs">
+      <DependentUpon>Form5x6.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form6x6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form6x6.Designer.cs">
+      <DependentUpon>Form6x6.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Info.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Info.Designer.cs">
+      <DependentUpon>Info.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MenuForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuForm.Designer.cs">
+      <DependentUpon>MenuForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Winner.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Winner.Designer.cs">
+      <DependentUpon>Winner.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="About.resx">
+      <DependentUpon>About.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Exit.resx">
+      <DependentUpon>Exit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form4x5.resx">
+      <DependentUpon>Form4x5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form4x4.resx">
+      <DependentUpon>Form4x4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form3x4.resx">
+      <DependentUpon>Form3x4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form5x5.resx">
+      <DependentUpon>Form5x5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form5x6.resx">
+      <DependentUpon>Form5x6.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form6x6.resx">
+      <DependentUpon>Form6x6.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Info.resx">
+      <DependentUpon>Info.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MenuForm.resx">
+      <DependentUpon>MenuForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Winner.resx">
+      <DependentUpon>Winner.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\amazon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\apple.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\facebook.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\flickr.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\google.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\instagram.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\twitter.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\windows.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\youtube.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pinterest.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\drive.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gmail.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo3x4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\map.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\photo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\playstore.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\translate.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chrome.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\coccoc.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\edge.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\firefox.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\maxthon.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\opera.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\safari.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\uc.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo4x4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\androidstudio.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\avast.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ccleaner.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kmplayer.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo5x5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\office.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pr.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\skype.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sql.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\teamview.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\visual.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\winrar.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\about.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MermoryGame.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\picture.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Creative-Icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo5x6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pdf.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\spotify.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\utorrent.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\quick-thinking_G1ECM8S_.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\correct.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\winning.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\click.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\happy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\youtube_link.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\facebook_link.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\c.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cplus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cshap.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\css.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\golang.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\html.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\java.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\js.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo6x6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mysql.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\node.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\php.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\python.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\react.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ruby.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\swift.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ts.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kotlin.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\scala.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\giphy %281%29.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\remove.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\laughing.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sad.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

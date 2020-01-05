@@ -1,0 +1,69 @@
+C:\Users\User\Desktop\Lap trinh Truc Quan\GameFinal\GameFinal\bin\Debug\GameFinal.exe.config
+C:\Users\User\Desktop\Lap trinh Truc Quan\GameFinal\GameFinal\bin\Debug\GameFinal.exe
+C:\Users\User\Desktop\Lap trinh Truc Quan\GameFinal\GameFinal\bin\Debug\GameFinal.pdb
+C:\Users\User\Desktop\Lap trinh Truc Quan\GameFinal\GameFinal\obj\Debug\GameFinal.Form1.resources
+C:\Users\User\Desktop\Lap trinh Truc Quan\GameFinal\GameFinal\obj\Debug\GameFinal.Properties.Resources.resources
+C:\Users\User\Desktop\Lap trinh Truc Quan\GameFinal\GameFinal\obj\Debug\GameFinal.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Lap trinh Truc Quan\GameFinal\GameFinal\obj\Debug\GameFinal.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Lap trinh Truc Quan\GameFinal\GameFinal\obj\Debug\GameFinal.exe
+C:\Users\User\Desktop\Lap trinh Truc Quan\GameFinal\GameFinal\obj\Debug\GameFinal.pdb
+C:\Users\User\Desktop\Lap trinh Truc Quan\GameFinal\GameFinal\obj\Debug\GameFinal.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Lap trinh Truc Quan\GameFinal\GameFinal\obj\Debug\GameFinal.MenuForm.resources
+C:\Users\User\Desktop\Lap trinh Truc Quan\GameFinal\GameFinal\obj\Debug\GameFinal.Form3.resources
+C:\Users\User\Desktop\Lap trinh Truc Quan\GameFinal\GameFinal\obj\Debug\GameFinal.Form2.resources
+C:\Users\User\Desktop\Lap trinh Truc Quan\GameFinal\GameFinal\obj\Debug\GameFinal.About.resources
+C:\Users\User\Downloads\GameFinal\GameFinal\GameFinal\bin\Debug\GameFinal.exe.config
+C:\Users\User\Downloads\GameFinal\GameFinal\GameFinal\bin\Debug\GameFinal.exe
+C:\Users\User\Downloads\GameFinal\GameFinal\GameFinal\bin\Debug\GameFinal.pdb
+C:\Users\User\Downloads\GameFinal\GameFinal\GameFinal\obj\Debug\GameFinal.csprojAssemblyReference.cache
+C:\Users\User\Downloads\GameFinal\GameFinal\GameFinal\obj\Debug\GameFinal.About.resources
+C:\Users\User\Downloads\GameFinal\GameFinal\GameFinal\obj\Debug\GameFinal.Form1.resources
+C:\Users\User\Downloads\GameFinal\GameFinal\GameFinal\obj\Debug\GameFinal.Form2.resources
+C:\Users\User\Downloads\GameFinal\GameFinal\GameFinal\obj\Debug\GameFinal.Form3.resources
+C:\Users\User\Downloads\GameFinal\GameFinal\GameFinal\obj\Debug\GameFinal.MenuForm.resources
+C:\Users\User\Downloads\GameFinal\GameFinal\GameFinal\obj\Debug\GameFinal.Properties.Resources.resources
+C:\Users\User\Downloads\GameFinal\GameFinal\GameFinal\obj\Debug\GameFinal.csproj.GenerateResource.cache
+C:\Users\User\Downloads\GameFinal\GameFinal\GameFinal\obj\Debug\GameFinal.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\GameFinal\GameFinal\GameFinal\obj\Debug\GameFinal.exe
+C:\Users\User\Downloads\GameFinal\GameFinal\GameFinal\obj\Debug\GameFinal.pdb
+C:\Users\User\Downloads\GameFinal\GameFinal\GameFinal\obj\Debug\GameFinal.Form4.resources
+D:\GameFinal\GameFinal\GameFinal\bin\Debug\GameFinal.exe.config
+D:\GameFinal\GameFinal\GameFinal\bin\Debug\GameFinal.exe
+D:\GameFinal\GameFinal\GameFinal\bin\Debug\GameFinal.pdb
+D:\GameFinal\GameFinal\GameFinal\obj\Debug\GameFinal.csprojAssemblyReference.cache
+D:\GameFinal\GameFinal\GameFinal\obj\Debug\GameFinal.About.resources
+D:\GameFinal\GameFinal\GameFinal\obj\Debug\GameFinal.MenuForm.resources
+D:\GameFinal\GameFinal\GameFinal\obj\Debug\GameFinal.Properties.Resources.resources
+D:\GameFinal\GameFinal\GameFinal\obj\Debug\GameFinal.csproj.GenerateResource.cache
+D:\GameFinal\GameFinal\GameFinal\obj\Debug\GameFinal.csproj.CoreCompileInputs.cache
+D:\GameFinal\GameFinal\GameFinal\obj\Debug\GameFinal.exe
+D:\GameFinal\GameFinal\GameFinal\obj\Debug\GameFinal.pdb
+D:\GameFinal\GameFinal\GameFinal\obj\Debug\GameFinal.Info.resources
+D:\GameFinal\GameFinal\GameFinal\obj\Debug\GameFinal.Winner.resources
+D:\GameFinal\GameFinal\GameFinal\obj\Debug\GameFinal.Form4x5.resources
+D:\GameFinal\GameFinal\GameFinal\obj\Debug\GameFinal.Form4x4.resources
+D:\GameFinal\GameFinal\GameFinal\obj\Debug\GameFinal.Form3x4.resources
+D:\GameFinal\GameFinal\GameFinal\obj\Debug\GameFinal.Form5x5.resources
+D:\GameFinal\GameFinal\GameFinal\obj\Debug\GameFinal.Form5x6.resources
+D:\GameFinal\GameFinal\GameFinal\obj\Debug\GameFinal.Form6x6.resources
+D:\GameFinal\GameFinal\GameFinal\obj\Debug\GameFinal.Exit.resources
+C:\Users\User\Desktop\GameFinal\GameFinal\GameFinal\bin\Debug\GameFinal.exe.config
+C:\Users\User\Desktop\GameFinal\GameFinal\GameFinal\bin\Debug\GameFinal.exe
+C:\Users\User\Desktop\GameFinal\GameFinal\GameFinal\bin\Debug\GameFinal.pdb
+C:\Users\User\Desktop\GameFinal\GameFinal\GameFinal\obj\Debug\GameFinal.csprojAssemblyReference.cache
+C:\Users\User\Desktop\GameFinal\GameFinal\GameFinal\obj\Debug\GameFinal.About.resources
+C:\Users\User\Desktop\GameFinal\GameFinal\GameFinal\obj\Debug\GameFinal.Exit.resources
+C:\Users\User\Desktop\GameFinal\GameFinal\GameFinal\obj\Debug\GameFinal.Form4x5.resources
+C:\Users\User\Desktop\GameFinal\GameFinal\GameFinal\obj\Debug\GameFinal.Form4x4.resources
+C:\Users\User\Desktop\GameFinal\GameFinal\GameFinal\obj\Debug\GameFinal.Form3x4.resources
+C:\Users\User\Desktop\GameFinal\GameFinal\GameFinal\obj\Debug\GameFinal.Form5x5.resources
+C:\Users\User\Desktop\GameFinal\GameFinal\GameFinal\obj\Debug\GameFinal.Form5x6.resources
+C:\Users\User\Desktop\GameFinal\GameFinal\GameFinal\obj\Debug\GameFinal.Form6x6.resources
+C:\Users\User\Desktop\GameFinal\GameFinal\GameFinal\obj\Debug\GameFinal.Info.resources
+C:\Users\User\Desktop\GameFinal\GameFinal\GameFinal\obj\Debug\GameFinal.MenuForm.resources
+C:\Users\User\Desktop\GameFinal\GameFinal\GameFinal\obj\Debug\GameFinal.Properties.Resources.resources
+C:\Users\User\Desktop\GameFinal\GameFinal\GameFinal\obj\Debug\GameFinal.Winner.resources
+C:\Users\User\Desktop\GameFinal\GameFinal\GameFinal\obj\Debug\GameFinal.csproj.GenerateResource.cache
+C:\Users\User\Desktop\GameFinal\GameFinal\GameFinal\obj\Debug\GameFinal.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\GameFinal\GameFinal\GameFinal\obj\Debug\GameFinal.exe
+C:\Users\User\Desktop\GameFinal\GameFinal\GameFinal\obj\Debug\GameFinal.pdb
